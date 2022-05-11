@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @widnyana-santika
 - 👀 I’m interested in back-end developer, specialy in microservices
 - 🌱 I’m currently learning spring cloud
-- 💞️ I’m looking to collaborate on java project
+- 💞️ I’m looking to collaborate on microservices project
 - 📫 How to reach me putu.widnyanasantika@gmail.com
 
 <!---
